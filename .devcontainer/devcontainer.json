@@ -1,0 +1,13 @@
+{
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "default": {
+          "permissions": {
+            "actions": "write"
+          }
+        }
+      }
+    }
+  }
+}
